@@ -1,0 +1,11 @@
+com\tuoppi\databaseintegration\persistence\EntityDAO.class
+com\tuoppi\xmlproject\mainresources\WebAppInitializer.class
+com\tuoppi\databaseintegration\configuration\RootConfig.class
+com\tuoppi\databaseintegration\models\FetchReply.class
+com\tuoppi\databaseintegration\models\Track.class
+com\tuoppi\databaseintegration\utility\HibernateUtils.class
+com\tuoppi\databaseintegration\models\Artist.class
+com\tuoppi\databaseintegration\controllers\ViewDatabaseInHtmlController.class
+com\tuoppi\databaseintegration\configuration\WebConfig.class
+com\tuoppi\databaseintegration\controllers\FetchXmlFromDatabaseController.class
+com\tuoppi\databaseintegration\models\Album.class
